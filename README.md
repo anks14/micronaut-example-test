@@ -21,7 +21,7 @@ Results:
 
 1) Micronaut (micronaut-example-test) start up time 4.4 sec vs Spring boot startup (spring-example-test) time 10.4 sec 
 2) Micronaut jar- 32.5 MB vs spring boot 32.7 MB. So roughly similar here.
-3) Memory utilization (Java Visual VM ) : Micronaut ~20 MB vs Spring Boot ~60MB
+3) Memory utilization (Java Visual VM ) : Micronaut ~28 MB vs Spring Boot ~63MB
 
 Micronaut is very promising! Spring boot has got tough competition!!!
 
