@@ -8,6 +8,9 @@ Created a simple rest based application same as savePerson and listPersons using
 the other project I created spring-example-test
 
 GET :http://localhost:9090/person/list
+
+
+
 POST : http://localhost:9090/person/save
 
 {
